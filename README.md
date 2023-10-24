@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tsuki
-- My general interest is in puzzles thats why I started coding also I love indie games
-- I'm learning code in general my favorite languages are python, javascript and C++
+- My general interest is in puzzles that's why I started coding also I love indie games
+- I'm learning coding in general I started coding games when I was young but now I actually starting to actual code my favorite languages now days are python, javascript and C++
 - I'm looking to just become the best person I can
 - If you want to reach my just go on discord for easy contact tsuki10
 
