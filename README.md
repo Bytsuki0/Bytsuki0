@@ -17,7 +17,7 @@
 [![Tools](https://skillicons.dev/icons?i=vscode,git,mysql,css,html,nodejs,&perline=4)](https://skillicons.dev)
 
  -<h3> **Ferramentas de design** </h3>
- [![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+ [![Design Tools](https://skillicons.dev/icons?i=ae,ps,pr,blender)](https://skillicons.dev)
     
 <h2> { Data } </h2>
 
