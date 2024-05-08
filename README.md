@@ -13,7 +13,7 @@
 
 <h3><strong>Linguagens</strong></h3>
 
-[![Languages](https://skillicons.dev/icons?i=java,javascript,c,cpp&perline=4)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,javascript,c,cpp&perline=4)](https://skillicons.dev)
 
 -<h3> **Tools** </h3>
 [![Tools](https://skillicons.dev/icons?i=vscode,git,mysql,css,html,nodejs,&perline=4)](https://skillicons.dev)
