@@ -7,18 +7,16 @@
 
 - Estudante de **Universidade Federal de Lavras** 
 
-- **Aprendendo** novas linguagens
-
 <h2>{ Skills }</h2>
 
 <h3><strong>Linguagens</strong></h3>
 
 [![Languages](https://skillicons.dev/icons?i=java,python,javascript,c,cpp&perline=4)](https://skillicons.dev)
 
--<h3> **Tools** </h3>
+-<h3> **principais ferramentas** </h3>
 [![Tools](https://skillicons.dev/icons?i=vscode,git,mysql,css,html,nodejs,&perline=4)](https://skillicons.dev)
 
- -<h3> **Design Tools** </h3>
+ -<h3> **Ferramentas de design** </h3>
  [![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
     
 <h2> { Data } </h2>
