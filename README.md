@@ -18,11 +18,4 @@
 
  -<h3> **Ferramentas de design** </h3>
  [![Design Tools](https://skillicons.dev/icons?i=ae,ps,pr,blender)](https://skillicons.dev)
-    
-<h2> { Data } </h2>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytsuki0&theme=dark&show_icons=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-   
-</div>
