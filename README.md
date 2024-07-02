@@ -21,4 +21,4 @@
 
 <h2> Percentual </h2>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytsuki0&theme=dark&show_icons=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+   [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytsuki0&theme=dark&show_icons=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
