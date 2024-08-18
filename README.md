@@ -14,7 +14,7 @@
 [![Languages](https://skillicons.dev/icons?i=java,python,javascript,c,r,cpp&perline=4)](https://skillicons.dev)
 
 -<h3> **Principais ferramentas** </h3>
-[![Tools](https://skillicons.dev/icons?i=vscode,git,mysql,css,html,nodejs,&perline=4)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,css,html,nodejs,&perline=4)](https://skillicons.dev)
 
  -<h3> **Ferramentas de design** </h3>
  [![Design Tools](https://skillicons.dev/icons?i=ae,ps,pr,blender)](https://skillicons.dev)
