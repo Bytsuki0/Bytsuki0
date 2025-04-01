@@ -1,13 +1,11 @@
 <h1 align="center"> Gustavo Vitor da Silva</h1>
-
-
-<h2> { Sobre } </h2>
+<h2>  Sobre  </h2>
 
 - Amante de puzzles e jogos indies, relativamente competitivo
 
 - Estudante de **Universidade Federal de Lavras** 
 
-<h2>{ Ferramentas }</h2>
+<h2> Ferramentas </h2>
 
 <h3><strong>Linguagens</strong></h3>
 
@@ -22,3 +20,4 @@
 <h2> Percentual </h2>
 
    [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytsuki0&theme=dark&show_icons=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
