@@ -8,7 +8,6 @@
 <h2> Ferramentas </h2>
 
 <h3><strong>Linguagens</strong></h3>
-
 [![Languages](https://skillicons.dev/icons?i=java,python,javascript,c,r,cpp&perline=4)](https://skillicons.dev)
 
 -<h3> **Principais ferramentas** </h3>
