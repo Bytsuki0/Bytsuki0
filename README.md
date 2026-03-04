@@ -9,7 +9,7 @@
 
 <h3><strong>Linguagens</strong></h3>
 
-[![Languages](https://skillicons.dev/icons?i=java,python,javascript,c,cs,cpp,r&perline=4)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,c,cs,cpp,rust,r&perline=4)](https://skillicons.dev)
 
 -<h3> **Principais ferramentas** </h3>
 [![Tools](https://skillicons.dev/icons?i=vscode,git,neovim,nodejs,unity,docker,&perline=4)](https://skillicons.dev)
