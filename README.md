@@ -1,20 +1,24 @@
 <h1 align="center"> Gustavo Vitor da Silva</h1>
-<h2>  Sobre  </h2>
+<h2>  About  </h2>
 
-- Amante de puzzles e jogos indies, relativamente competitivo
+- ML and Backend enginier focused on cloud implementation and Aws integration
 
-- Estudante de **Universidade Federal de Lavras** 
+- Working with Statistics and Research
 
-<h2> Ferramentas </h2>
+- Estudant from **Federal University of :avras** 
 
-<h3><strong>Linguagens</strong></h3>
+- A sucker for puzzle and indie games
+
+<h2> Tools </h2>
+
+<h3><strong>Languages</strong></h3>
 
 [![Languages](https://skillicons.dev/icons?i=java,python,c,cs,cpp,rust,r&perline=4)](https://skillicons.dev)
 
--<h3> **Principais ferramentas** </h3>
+-<h3> **Main Tools** </h3>
 [![Tools](https://skillicons.dev/icons?i=vscode,git,nodejs,unity,docker,&perline=4)](https://skillicons.dev)
 
- -<h3> **Ferramentas de design** </h3>
+ -<h3> **Design Tools** </h3>
  [![Design Tools](https://skillicons.dev/icons?i=ae,ps,pr,blender)](https://skillicons.dev)
 
 
