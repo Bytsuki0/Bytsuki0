@@ -1,11 +1,11 @@
 <h1 align="center"> Gustavo Vitor da Silva</h1>
 <h2>  About  </h2>
 
-- ML and Backend enginier focused on cloud implementation and Aws integration
+- ML and Backend engineer focused on cloud implementation and Aws integration
 
 - Working with Statistics and Research
 
-- Estudant from **Federal University of :avras** 
+- Estudant from **Federal University of Lavras** 
 
 - A sucker for puzzle and indie games
 
