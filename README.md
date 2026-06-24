@@ -28,17 +28,17 @@ class ByTsuki:
         self.role        = ["ML Engineer", "Backend Engineer"]
         self.focus       = ["Cloud & AWS integration", "Statistics & Research"]
         self.studying    = ["Machine Learning", "3D Art", "Drawing", "Creative thinking"]
-        self.loves       = ["Puzzle games 🧩", "Indie games 🕹️", "Drawing & art 🎨"]
+        self.loves       = ["Puzzle games", "Indie games", "Drawing & art"]
         self.location    = "São Sebastião do Paraíso, BR 🇧🇷"
 
     def current_mood(self):
         return "Turning data into insight - and pixels into worlds."
 ```
 
-- 🔭 Working on **ML pipelines**, **research in R**, and **cloud-deployed backends**
-- 🌱 Leveling up in **Machine Learning**, **3D modeling**, and **digital art**
-- 🧩 A sucker for a good puzzle and a cozy indie game
-- 🎨 When I'm not shipping code, I'm probably drawing or modeling something
+- Working on **ML pipelines**, **research in R**, and **cloud-deployed backends**
+- Leveling up in **Machine Learning**, **3D modeling**, and **digital art**
+- A sucker for a good puzzle and a cozy indie game
+- When I'm not shipping code, I'm probably drawing or modeling something
 
 ---
 
@@ -62,7 +62,7 @@ class ByTsuki:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -103,11 +103,6 @@ A clean vanilla registry system wired up to a SQL backend - fundamentals done ri
 </tr>
 </table>
 
-<div align="center">
-
-🧩 Also grinding daily on [**LeetCode solutions**](https://github.com/Bytsuki0/Leet_code) · `Python`
-
-</div>
 
 ---
 
@@ -129,7 +124,7 @@ A clean vanilla registry system wired up to a SQL backend - fundamentals done ri
 
 <div align="center">
 
-> *"The moon does not fight. It attacks no one. It does not worry. It keeps to its course, but by its very nature, it gently influences."* 🌙
+> *"The moon does not fight. It attacks no one. It does not worry. It keeps to its course, but by its very nature, it gently influences."* 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=120&section=footer" alt="footer"/>
 
