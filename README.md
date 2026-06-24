@@ -2,9 +2,6 @@
 <!--                    GUSTAVO VITOR DA SILVA · ByTsuki                -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Bytsuki0">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=210&section=header&text=Gustavo%20Vitor%20da%20Silva&fontColor=c0caf5&fontSize=46&fontAlignY=38&desc=%F0%9F%8C%99%20ByTsuki%20%C2%B7%20ML%20%26%20Backend%20%C2%B7%20Statistics%20%C2%B7%20Art&descAlignY=60&descSize=18&descColor=a9b1d6" alt="header"/>
-</a>
 
 <div align="center">
 
@@ -104,11 +101,13 @@ A clean vanilla registry system wired up to a SQL backend - fundamentals done ri
 </table>
 
 
+
 ---
 
-## 📊 GitHub in Numbers
+## GitHub in Numbers
 
 <div align="center">
+
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytsuki0&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&langs_count=8" alt="top langs"/>
 
@@ -116,7 +115,7 @@ A clean vanilla registry system wired up to a SQL backend - fundamentals done ri
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bytsuki0&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5" alt="activity graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bytsuki0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+
 
 </div>
 
@@ -124,7 +123,7 @@ A clean vanilla registry system wired up to a SQL backend - fundamentals done ri
 
 <div align="center">
 
-> *"The moon does not fight. It attacks no one. It does not worry. It keeps to its course, but by its very nature, it gently influences."* 
+> *"The moon does not fight. It attacks no one. It does not worry. It keeps to its course, but by its very nature, it gently influences."* 🌙
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=120&section=footer" alt="footer"/>
 
