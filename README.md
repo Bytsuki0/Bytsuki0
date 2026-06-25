@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=ML+%26+Backend+Engineer+%E2%9A%99%EF%B8%8F;Statistics+%26+Research+in+R+%F0%9F%93%8A;Cloud+%2B+AWS+integration+%E2%98%81%EF%B8%8F;Indie+game+tinkerer+%F0%9F%95%B9%EF%B8%8F;Puzzle+solver+%26+artist+%F0%9F%8E%A8;Always+learning+something+new+%F0%9F%8C%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=ML+%26+Backend+Engineer;Statistics+%26+Research+in+R;Cloud+%2B+AWS+integration;Indie+game+tinkerer;Puzzle+solver+%26+artist;Always+learning+something+new)](https://git.io/typing-svg)
 
 <a href="https://www.instagram.com/_gustavo_viitor/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://rpubs.com/ByTsuki0"><img src="https://img.shields.io/badge/RPubs-%2375AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white" alt="RPubs"/></a>
